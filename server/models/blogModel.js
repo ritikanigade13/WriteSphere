@@ -8,6 +8,15 @@ const blogSchema = new mongoose.Schema({
     minlength: 5,
     maxlength: 100,
   },
+  
+  bio: {
+    type: String,
+    required: true,
+    trim: true,
+    minlength: 5,
+    maxlength: 200,
+  },
+  
   content: {
     type: String,
     required: true,
@@ -16,6 +25,10 @@ const blogSchema = new mongoose.Schema({
   author: {
     type: String,
     required: true,
+    trim: true,
+  },
+  authorId: {
+    type: String,
     trim: true,
   },
   tags: {
@@ -27,6 +40,7 @@ const blogSchema = new mongoose.Schema({
     enum: ["Technology", "Lifestyle", "Education", "Health", "Other"],
     default: "Other",
   },
+
   createdAt: {
     type: Date,
     default: Date.now,
