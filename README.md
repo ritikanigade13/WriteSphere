@@ -66,12 +66,30 @@ To set up the project locally, follow these steps:
 - Browse: View and read blog posts across different categories.
 
 # Snapshots of project:
+
+# Login
+
+![Login Page](docs/screenshots/Login.png)
+
+# Register
+
+![Register Blog Page](docs/screenshots/Register.png)
+
+### Home Page
+
 ![Home Page](docs/screenshots/homePage.png)
+
+### Create Blog
+
 ![Create Blog Page](docs/screenshots/create_blog.png)
+
+# Explore Blogs
+
 ![Explore Blogs Page](docs/screenshots/ExplorePage1.png)
 ![Explore Blogs Page](docs/screenshots/ExplorePage2.png)
-![Login Page](docs/screenshots/Login.png)
-![Register Blog Page](docs/screenshots/Register.png)
+
+# Update
+
 ![Update Blogs Page](docs/screenshots/Update.png)
 
 # Contributing
@@ -96,4 +114,3 @@ git clone https://github.com/ritikanigade13/WriteSphere.git
 # Contact
 
 For any questions or issues, please contact nigaderitika13@gmail.com.
-
