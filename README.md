@@ -4,10 +4,10 @@ WriteSphere is a dynamic and user-friendly blogging application designed to faci
 
 # Features
 
-Create and Manage Blogs: Users can create, edit, and delete blog posts.
-Explore Content: Browse through a variety of blog posts categorized into different topics.
-User Authentication: Secure login and registration for users.
-Responsive Design: A user-friendly interface optimized for various devices.
+- Create and Manage Blogs: Users can create, edit, and delete blog posts.
+- Explore Content: Browse through a variety of blog posts categorized into different topics.
+- User Authentication: Secure login and registration for users.
+- Responsive Design: A user-friendly interface optimized for various devices.
 
 # Technologies Used:
 
